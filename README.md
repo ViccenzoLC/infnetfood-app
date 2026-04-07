@@ -12,6 +12,8 @@ Aplicativo de delivery desenvolvido com React Native + Expo.
 - Checkout com API ViaCEP
 - Tema claro/escuro
 
-![IMG](README/printLoginAT.png)
+(IMG/printLoginAT.png)
+
+
 -use: admin@infnet.com
 -senha: 123
